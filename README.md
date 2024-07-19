@@ -31,7 +31,7 @@
 >
 > 게임 시작으로 들어가 맵을 고르고 플레이를 합니다
 >
-> 게임을 플레이를 하면 메인화면으로 돌아옵니다.
+> 게임을 클리어 하면 메인화면으로 돌아옵니다.
 
 ![게임플레이gif](https://github.com/user-attachments/assets/ee40dd3a-a6fb-4740-a5cd-9b3a34dc079e)
 
